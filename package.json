@@ -1,0 +1,12 @@
+{
+  "name": "js-codemods",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bhongy/js-codemods.git",
+  "author": "Thanik Bhongbhibhat <email@thanik.me>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jscodeshift": "^0.4.0"
+  }
+}
